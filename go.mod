@@ -1,4 +1,4 @@
-module github.com/arsmn/http-introspection
+module github.com/arsmn/http-introspect
 
 go 1.14
 
